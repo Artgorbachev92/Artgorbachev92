@@ -12,7 +12,7 @@
 
 Мои контакты:
 * 📞 +7-916-407-52-91
-* ![[Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/PatrakeevVO)
+<a href="">[![Telegram](https://img.icons8.com/?size=100&id=63306&format=png&color=000000)](https://t.me/Zimina_Victoria)</a>
 * [WHATSAPP](https://wa.me/9601904218)
 * ✉ [Argorbachev92@gmail.com](mailto:Argorbachev92@gmail.com) 
 

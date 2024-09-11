@@ -10,10 +10,10 @@
 
 Постоянно обучаюсь чему-то новому и хочу развиваться в этой сфере*
 
-My contacts:
+Мои контакты:
 * 📞 +7-916-407-52-91
 * <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)</a>
-  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
+* <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
 * ✉ [patrakeevvalentin@gmail.com](mailto:patrakeevvalentin@gmail.com) 
 
 ###  🛠️ Стек:  

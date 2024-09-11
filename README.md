@@ -1,19 +1,19 @@
-<p align="center">
-  <img width="400" height="250" src="https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif"  alt="animated" />
-</p>
 
 ### <p align="center">Привет, меня зовут Артем! 👋</p>
 
 <div align="center">
 
-  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)</a>
-  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
+
 
 </div>
+*Я аналитик данных 
+*<br/>Постоянно обучаюсь чему-то новому и хочу развиваться в этой сфере*
 
-* Занимаюсь аналитикой данных и визуализацией📈
-* Готов к сотрудничеству 🤝
-* Мои проекты 👇:
+My contacts:
+* 📞 +7-916-407-52-91
+* <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)</a>
+  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
+* ✉ [patrakeevvalentin@gmail.com](mailto:patrakeevvalentin@gmail.com) 
 
 ###  🛠️ Стек:  
 

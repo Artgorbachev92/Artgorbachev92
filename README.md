@@ -2,7 +2,7 @@
 <li><strong>Аналитика</strong>: <code>Python</code>, <code>SQL</code>, <code>Git</code>, <code>Clickhouse</code>, <code>Oracle</code>, <code>Redash</code>, <code>API</code>, <code>Airflow</code>, <code>PowerBI</code>, <code>VSCode</code>, <code>Jupyter Notebook</code>, <code>Pandas</code>, <code>Numpy</code>, <code>Scipy</code>, <code>Matplotlib</code>, <code>Seaborn</code>
 </li>
 </ul>
-[I'm an inline-style link](https://www.google.com)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>

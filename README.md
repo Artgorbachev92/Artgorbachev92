@@ -1,18 +1,15 @@
 
 ### <p align="center" style="font-size: 18px">Привет, меня зовут Артем! 👋</p>
-<strong>Я аналитик данных </strong>
+<strong >Я аналитик данных </strong>
 
-Постоянно обучаюсь чему-то новому и хочу развиваться в этой сфере*
-<div align="center">
+Постоянно обучаюсь чему-то новому и хочу развиваться в этой сфере
+
 Мои контакты:
-
-  <a href="" >[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)</a>
-  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
 * 📞 +7-916-407-52-91
 * ✉ [Argorbachev92@gmail.com](mailto:Argorbachev92@gmail.com) 
+* <a href="" >[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)</a>
+* <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
 
-
-</div>
 
 ###  🛠️ Стек:  
 

@@ -10,7 +10,12 @@
 * 📲 [Telegram](https://t.me/The_Beard_Man)
 * 💻 [WhatsApp](https://wa.me/9164075291)
 
+---
+### Skills :hammer_and_wrench:
 
+- **ML skills**: `Python`, `SQL`, `Git`, `SQLALchemy`, `PostreSQL`, `Redash`, `FastAPI`, `Airflow`, `PyTorch`, `PyCharm`, `Jupyter Notebook`, `Command-line`
+- **Technologie**s: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`, `Optuna`
+---
 ###  🛠️ Стек:  
 
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)

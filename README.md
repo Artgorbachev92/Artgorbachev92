@@ -29,6 +29,10 @@ My contacts:
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 
+<p>
+  <strong>Мои проекты 👇:</strong>
+</p>
+  
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/vickiticy/for_project_1)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).|pandas,numpy,seaborn,  matplotlib,scipy,requests|

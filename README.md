@@ -21,11 +21,11 @@
   
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/vickiticy/for_project_1)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).|pandas,numpy,seaborn,  matplotlib,scipy,requests|
-|Проект 2 Анализ продуктовых метрик  (__[github](https://github.com/vickiticy/for_project_2)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
-|Проект 3 RFM-анализ  (__[github](https://github.com/vickiticy/for_project_3)__)|Сегментация пользователей, проведение RFM-анализа|pandas|
-|Проект 4 E-commerce  (__[github](https://github.com/vickiticy/for_project_4)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
-|Проекты SQL  (__[github](https://github.com/vickiticy/for_SQL)__)|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
+|Проект 1  Анализ новой системы рекомендации товаров (__[github](https://github.com/Artgorbachev92/New_system_recommendations)__)|Выбор, расчет продуктовых метрик, АВ-тесты. |pandas,seaborn,scipy|
+|Проект 2 Анализ продуктовых метрик  (__[github](https://github.com/Artgorbachev92/Students)__)|Анализ ключевых метрик (Conversion Rate, ARPPU и др.), проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap), написание сложного запроса к базе данных|pandas,seaborn,Clickhouse, SQL, CTE, подзапросы|
+|Проект 3 Когортный и RFM-анализ  (__[github](https://github.com/Artgorbachev92/Cohort_and_RFM)__)|Сегментация пользователей, проведение когортного и RFM-анализа|pandas,numpy|
+|Проект 4 JavaScript  (__[github](https://github.com/Artgorbachev92/food_project)__)| Проект по результатам изучения JavaScript | CSS, HTML, JavaScript|
+|Проект 5 HTML,CSS  (__[github](https://github.com/Artgorbachev92/pulsometr)__)|Проект по созданию сайта|HTML,CSS,адаптивная верстка, препроцессоры|
 
 
 

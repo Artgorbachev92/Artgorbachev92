@@ -25,7 +25,6 @@
 |Проект 2 Анализ продуктовых метрик  (__[github](https://github.com/Artgorbachev92/Students)__)|Анализ ключевых метрик (Conversion Rate, ARPPU и др.), проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap), написание сложного запроса к базе данных|pandas,seaborn,Clickhouse, SQL, CTE, подзапросы|
 |Проект 3 Когортный и RFM-анализ  (__[github](https://github.com/Artgorbachev92/Cohort_and_RFM)__)|Сегментация пользователей, проведение когортного и RFM-анализа|pandas,numpy|
 |Проект 4 JavaScript  (__[github](https://github.com/Artgorbachev92/food_project)__)| Проект по результатам изучения JavaScript | CSS, HTML, JavaScript|
-|Проект 5 HTML,CSS  (__[github](https://github.com/Artgorbachev92/pulsometr)__)|Проект по созданию сайта|HTML,CSS,адаптивная верстка, препроцессоры|
 
 
 
